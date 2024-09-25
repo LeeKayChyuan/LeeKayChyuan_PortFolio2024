@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/drawer.addbook"
+        android:title="Add Book" />
+    <item
+        android:id="@+id/drawer.RemoveLast"
+        android:title="Remove Last Book" />
+    <item
+        android:id="@+id/drawer.RemoveAll"
+        android:title="Remove All Book" />
+    <item
+        android:id="@+id/ListAll"
+        android:title="ListAll" />
+    <item
+        android:id="@+id/drawer.Close"
+        android:title="Close" />
+</menu>
