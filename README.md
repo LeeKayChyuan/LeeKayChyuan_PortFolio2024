@@ -1,0 +1,1 @@
+I'm  Lee Kay Chyuan from Monash University Y3S1 Advance Computer Science undergraduate students. These are some of my works I did when I pursue my degree. I have learnt Python, Java, C, Haskell, Marie Language, R language, JavaScript and TypedScript. 
